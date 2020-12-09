@@ -25,7 +25,7 @@ As a user you will see a list of items and their locations, so you can easily go
 >client = user collecting an item that has been posted
 
 ### Two Main Views
-- **Main View:** Grid of posted items (image, title, begining of description, location, links) - Change to Map View
+- **Main View:** Grid of posted items (image, title, beginning of description, location, links) - Change to Map View
 - **Map View:** Map with pins (on click: image, title, beginning of description, location, links) - Change to List View
 
 ### Posts
